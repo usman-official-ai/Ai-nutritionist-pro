@@ -1,5 +1,9 @@
 # 🥗 AI Nutritionist Pro
 
+ <img width="1672" height="941" alt="Image" src="https://github.com/user-attachments/assets/540c0bee-2853-4df1-ab0b-f8c8503accb0" />  
+ 
+
+
 AI-Powered Personalized Diet Planning System
 
 ## Features
