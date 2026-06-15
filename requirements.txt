@@ -6,5 +6,5 @@ joblib
 matplotlib
 seaborn
 streamlit
-pytest
-python-dotenv
+plotly
+streamlit-option-menu
